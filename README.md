@@ -8,7 +8,7 @@ npm install
 
 ## Build 
 
-```
+
 
 Build this project by running 
 
@@ -16,6 +16,7 @@ Build this project by running
 
 npm run build
 
+```
 
 ## Usage
 
