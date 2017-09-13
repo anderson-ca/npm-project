@@ -18,6 +18,10 @@ npm run build
 
 ```
 
-#Usage
+## Usage
+
+```
 
 Open `public/index.html` in your browser
+
+```
